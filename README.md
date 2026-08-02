@@ -1,5 +1,5 @@
 # My CS3 Portfolio for SY 2026 to 2-2
-## By Aline Teresa L. Mendoza
+## By <your name>
 ### First Quarter Exercises and Project
 1. Graded Exercises
    * [1st Graded](q1/1stgraded.md).
